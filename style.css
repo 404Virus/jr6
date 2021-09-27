@@ -1,8 +1,13 @@
 
-h1 {
+p {
     color:red;
     font-weight: bold;
 } 
-Text {
+.About-me {
+    color: blue;
+    font-weight: solid;
+    font-weight: 5px;
+}
+.Name {
     color: aqua;
 }
